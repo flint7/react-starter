@@ -1,0 +1,9 @@
+# IntelliJ project files
+.idea/
+*.iml
+
+### Node template
+# Dependency directory
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+node_modules/
+
