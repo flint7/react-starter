@@ -1,7 +1,5 @@
 module.exports = {
 
-    //context: __dirname + "/examples",
-    //
     entry: [
         "./examples/index"
     ],
